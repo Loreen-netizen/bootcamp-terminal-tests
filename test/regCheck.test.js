@@ -1,5 +1,5 @@
 let assert = require("assert");
-let regCheck = require("regCheck");
+let regCheck = require("../regCheck");
 
 describe("regCheck", function(){
     it("should return true for a regNumber from Gauteng",function(){

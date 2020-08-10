@@ -4,7 +4,7 @@ var regCheck = function(registration,town){
     else {return false}
     };
     
-    regCheck('CY189-012', 'CY')
+    regCheck('CY189-012', 'CY');
  
 module.exports = regCheck;
      
